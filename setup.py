@@ -21,7 +21,7 @@ setup(
         'Programming Language :: Python :: 3.10',
         'Programming Language :: Python :: 3 :: Only',
     ],
-    version='0.2',
+    version='0.4',
     description='Data needed for CI computation with Birth-Death Exposed-Infectious (BDEI) model in [PhyloDeep](https://github.com/evolbioinfo/phylodeep).',
     author='Jakub Voznica',
     author_email='jakub.voznica@pasteur.fr',
